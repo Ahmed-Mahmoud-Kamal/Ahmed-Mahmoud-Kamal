@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Ahmed Mahmoud Kamal 👋
 
-<!--
-**Ahmed-Mahmoud-Kamal/Ahmed-Mahmoud-Kamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student with a strong focus on **Hardware-Software Co-design**, **Embedded Systems**, and **Data Systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Hardware & Systems:** Verilog, SystemVerilog, VHDL, C, C++, Assembly, FPGA, ESP32
+- **Software & Data:** Python, SQL, Data Engineering, Pandas, ML/Data Analysis
+- **Frameworks & Tools:** Linux/WSL, System V IPC, Git, Quartus, Proteus, VS Code
+
+---
+
+
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/ahmed-kamal0x/](https://www.linkedin.com/in/ahmed-kamal0x/)
+- 📧 **Email:** ahmedmahmoudkamal8@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Mahmoud-Kamal&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Mahmoud-Kamal&layout=compact&theme=tokyonight)
