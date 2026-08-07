@@ -1,14 +1,23 @@
 # Hi there, I'm Ahmed Mahmoud Kamal 👋
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00599C&center=false&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+Cairo+Uni;Hardware-Software+Co-Design+%26+Embedded+Systems;Data+Science+%26+Full-Stack+Architectures" alt="Typing SVG" />
+</a>
+
 **Computer Engineering Student at Cairo University** focused on **Hardware-Software Co-Design** and **Data Science**, with experience in low-level optimization, computer architecture, full-stack development, and scalable backend systems.
 
 ---
 
 ### 📬 Connect with Me
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmahmoudkamal8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-kamal0x)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Mahmoud-Kamal)
+<p align="left">
+  <a href="mailto:ahmedmahmoudkamal8@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-kamal0x">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
