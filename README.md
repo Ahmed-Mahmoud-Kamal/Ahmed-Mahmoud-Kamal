@@ -23,11 +23,6 @@
 
 ---
 
-### 🎓 Education
-
-- **Cairo University** — Bachelor of Computer Engineering (GPA: 3.58) | *Sept 2023 – July 2028*
-
----
 
 ### 📫 Connect with Me
 
